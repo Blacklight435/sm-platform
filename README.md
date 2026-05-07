@@ -1,1 +1,5 @@
-# sm-platform
+A modern social media website focused mainly on chatting and communication between users. The platform allows people to create accounts, customize profiles, add friends, follow other users, and send real-time messages through private chats or group conversations. Users can share text messages, images, videos, voice messages, and status updates while interacting in a clean and responsive interface designed for both desktop and mobile devices.
+
+The website includes features such as online status indicators, typing indicators, notifications, message reactions, friend requests, user blocking/reporting systems, and customizable privacy settings. Conversations are stored securely using a backend database, while authentication systems handle account creation, login, password recovery, and user sessions.
+
+The frontend focuses on a smooth user experience with fast navigation, modern UI elements, dark/light mode support, and responsive layouts. The backend manages real-time communication, user data, media uploads, notifications, and moderation systems. The platform is designed to feel fast, interactive, and community-driven, with an emphasis on private messaging and social interaction rather than content creation.
